@@ -1,4 +1,15 @@
+## 🎓 Información General 
 
+
+ **Estudiante** 🧑‍🎓:  Elian Vicente Jiménez Motoche
+ 
+ **Carrera** 📚:  Ingenieria en Computacion
+ 
+ **Docente** 👩‍🏫/👨‍🏫: Ing. Mario Cueva
+ 
+ **Ciclo/Nivel** 🗓️: Ciclo 1 "A" 
+ 
+ **Fecha de Creación** 📅: 16-11-2025
 
 ---
 
