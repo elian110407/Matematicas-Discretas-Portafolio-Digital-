@@ -11,8 +11,6 @@
  
  **Fecha de Creación** 📅: 16-11-2025
 
----
-
 Este portafolio contiene todas las evidencias de aprendizaje de la unidad 1:
 
 ---
