@@ -3,26 +3,21 @@
 
 ---
 
-## 🎓 Información General 
+### **I. UNIDAD 1 🌐**
 
+Aqui se presentan las evidencias de aprendizaje de la unidad 1:
 
- **Estudiante** 🧑‍🎓:  Elian Vicente Jiménez Motoche
- 
- **Carrera** 📚:  Ingenieria en Computacion
- 
- **Docente** 👩‍🏫/👨‍🏫: Ing. Mario Cueva
- 
- **Ciclo/Nivel** 🗓️: Ciclo 1 "A" 
- 
- **Fecha de Creación** 📅: 16-11-2025
+📖 [Tareas Unidad 1](Unidad1.md)
 
 ---
 
-### **I. UNIDAD 1 🌐**
+### **II. UNIDAD 2 📂**
 
-Este portafolio contiene todas las evidencias de aprendizaje de la unidad 1:
+---
 
-[Tareas Unidad 1](Unidad1.md)
+### ***III. UNIDAD 3 📄***
+
+
 
 
 
